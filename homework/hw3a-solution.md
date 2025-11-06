@@ -30,10 +30,12 @@ My local repository is now connected to GitHub:
 Complete this section with details from your setup:
 - Repository URL: https://github.com/roni-AU/py4eda-work_incomplete
 - Output of `git remote -v`: 
-origin  https://github.com/roni-AU/py4eda-work_incomplete.git (fetch)
-origin  https://github.com/roni-AU/py4eda-work_incomplete.git (push)
+  origin  https://github.com/roni-AU/py4eda-work_incomplete.git (fetch)
+  
+  origin  https://github.com/roni-AU/py4eda-work_incomplete.git (push)
 - The output of `git log --oneline`:
 435e586 (HEAD -> master, origin/master) Add hw3a solution document
+  
 d2fb087 Initial Commit: Add README and .gitignore
 
 ## Questions
